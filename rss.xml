@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Info Test]]></title>
         <description><![CDATA[Info Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/info-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jan 2016 11:05:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jan 2016 11:20:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/info-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Enterprise IP Phones | Grandstream Networks]]></title>
+            <description><![CDATA[<article><h1>Enterprise IP Phones | Grandstream Networks</h1><p>The GXP series of color-screen IP phones offers 3, 4 and 6 line IP phones with a suite of advanced VoIP calling features to maximize enterprise productivity and communication. Features such as HD audio support, a full color-screen operating system, various BLF/speed dial/extension module options and built-in Bluetooth offers users a powerful desktop experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0f4244a8f46044ad5b854f5151125bfb9062615e.jpg"></article>]]></description>
+            <link>http://www.grandstream.com/products/ip-voice-telephony/enterprise-ip-phones</link>
+            <guid isPermaLink="false">15a94257-a03f-41ed-b40e-7d6efa338b7f</guid>
+            <pubDate>Wed, 20 Jan 2016 11:20:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Home | Grandstream Networks]]></title>
-            <description><![CDATA[<article><h1>Home | Grandstream Networks</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/440a6a2e255bf5c613bed2fc63355d9a875b2d02.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Home | Grandstream Networks</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce975db2772b1e29a48a0f7105e968785e96bbdf.jpg"></article>]]></description>
             <link>http://www.grandstream.com/</link>
             <guid isPermaLink="false">39766371-16d7-4f8b-87c7-4ffabd50eac1</guid>
             <pubDate>Wed, 20 Jan 2016 11:05:39 GMT</pubDate>
