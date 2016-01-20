@@ -17,7 +17,7 @@ keywords:
   - headsets
   - voice
 description: 'The GXP series of color-screen IP phones offers 3, 4 and 6 line IP phones with a suite of advanced VoIP calling features to maximize enterprise productivity and communication. Features such as HD audio support, a full color-screen operating system, various BLF/speed dial/extension module options and built-in Bluetooth offers users a powerful desktop experience.'
-datePublished: '2016-01-20T11:25:45.643Z'
+datePublished: '2016-01-20T11:25:45.710Z'
 dateModified: '2016-01-20T11:25:37.823Z'
 author: []
 related: []
