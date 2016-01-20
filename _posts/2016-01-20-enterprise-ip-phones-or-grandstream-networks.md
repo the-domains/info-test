@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.grandstream.com/products/ip-voice-telephony/enterprise-ip-phones'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - conferencing
   - sip
@@ -17,8 +17,8 @@ keywords:
   - headsets
   - voice
 description: 'The GXP series of color-screen IP phones offers 3, 4 and 6 line IP phones with a suite of advanced VoIP calling features to maximize enterprise productivity and communication. Features such as HD audio support, a full color-screen operating system, various BLF/speed dial/extension module options and built-in Bluetooth offers users a powerful desktop experience.'
-datePublished: '2016-01-20T11:24:43.022Z'
-dateModified: '2016-01-20T11:24:32.683Z'
+datePublished: '2016-01-20T11:25:45.643Z'
+dateModified: '2016-01-20T11:25:37.823Z'
 author: []
 related: []
 app_links: []
